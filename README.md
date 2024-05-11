@@ -33,3 +33,19 @@ The information of most important columns used in each dataset is given below:
 > * **amenities** : list of amenities available in the unit
 > * **price** : cost (USD) per night
 > * **review_scores_rating** : unit review out of 5
+
+The project dealt with the follwing steps:
+#### Business and Data Understanding
+> We parsed the dataset to understand what metrics were of most importance in Seattle for AirBnB
+> We also looked at what features in each dataset were of highest importance for us to furhter explore
+
+#### Data Preparation
+> Having shortlisted the data we want to focus on, we have performed data wrangling to:
+> * Filter out columns we dont want to process further
+> * Deal with NaNs in our Dataset
+> * Deal with categorical columns and encode as one-hot for our Linear Regression model
+
+### Data modelling and Result Evaluation
+> In this step, we built charts and ML models to help understand the relation of verious metrics with respect to each other or wrt time.
+> We have gleamed questions of interest from the data and have answered these with charts and models.
+
