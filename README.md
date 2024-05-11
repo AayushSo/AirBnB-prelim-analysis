@@ -71,13 +71,13 @@ Libraries Used
 > scikit-learn==1.4.2
 
 Files in the repository
-> README.md : readme file 
-> .gitignore : files to exclude from version control
-> medium_airbnb.ipynb : main jupyter file where all analysis takes places
-> Dataset files:
-> * calendar.csv
-> * listings.csv
-> * reviews.csv 
+> * README.md : readme file 
+> * .gitignore : files to exclude from version control
+> * medium_airbnb.ipynb : main jupyter file where all analysis takes places
+> * Dataset files:
+>   * calendar.csv
+>   * listings.csv
+>   * reviews.csv 
 
 Acknowledgements
 Dataset credit : Data is made available via [Inside Airbnb](https://insideairbnb.com/). It was downloaded via [Udacity Nanodegree Data Scientist course] (https://www.udacity.com/course/data-scientist-nanodegree--nd025)
