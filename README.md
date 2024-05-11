@@ -65,10 +65,10 @@ The details of the project can be read on my [blog post here](https://medium.com
 
 ## Project information
 Libraries Used
-> pandas==2.1.4
-> seaborn==0.13.2
-> matplotlib==3.8.4
-> scikit-learn==1.4.2
+> * pandas==2.1.4
+> * seaborn==0.13.2
+> * matplotlib==3.8.4
+> * scikit-learn==1.4.2
 
 Files in the repository
 > * README.md : readme file 
@@ -80,5 +80,6 @@ Files in the repository
 >   * reviews.csv 
 
 Acknowledgements
-Dataset credit : Data is made available via [Inside Airbnb](https://insideairbnb.com/). It was downloaded via [Udacity Nanodegree Data Scientist course] (https://www.udacity.com/course/data-scientist-nanodegree--nd025)
-The project was done under the supervision of Udacity instructor via the above mentioned course.
+>Dataset credit : Data is made available via [Inside Airbnb](https://insideairbnb.com/). It was downloaded via [Udacity Nanodegree Data Scientist course](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+>
+> The project was done under the supervision of Udacity instructor via the above mentioned course.
