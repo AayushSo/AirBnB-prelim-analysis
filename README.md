@@ -45,7 +45,7 @@ The project dealt with the follwing steps:
 > * Deal with NaNs in our Dataset
 > * Deal with categorical columns and encode as one-hot for our Linear Regression model
 
-### Data modelling and Result Evaluation
+#### Data modelling and Result Evaluation
 > In this step, we built charts and ML models to help understand the relation of verious metrics with respect to each other or wrt time.
 > We have gleamed questions of interest from the data and have answered these with charts and models.
 
